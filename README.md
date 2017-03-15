@@ -27,7 +27,7 @@ Linux常用命令
 * d   向后翻半页
 
 ## vsftpd
-安装步骤可见：
+安装步骤可见：[安装指南](https://github.com/chanson1024/Linux-cmd/wiki/vsftpd%E5%AE%89%E8%A3%85%E6%8C%87%E5%8D%97)
 开关命令:
 service vsftpd start
 service vsftpd stop
