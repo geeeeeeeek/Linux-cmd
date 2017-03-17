@@ -34,3 +34,7 @@ Linux常用命令
 service vsftpd start
 
 service vsftpd stop
+
+## Git常用
+git记住密码：
+* $ git config credential.helper store
