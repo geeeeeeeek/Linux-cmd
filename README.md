@@ -35,6 +35,6 @@ service vsftpd start
 
 service vsftpd stop
 
-## Git常用
+## Git常用 [git指南](http://www.ruanyifeng.com/blog/2015/12/git-cheat-sheet.html)
 git记住密码：
 * $ git config credential.helper store
