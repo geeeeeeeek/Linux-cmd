@@ -1,5 +1,4 @@
-# Linux-cmd
-Linux常用命令
+# Linux常用命令
 
 ## vim
 * ndd 删除光标所在行向下 n 行，例如 20dd 则是删除 20 行(常用)
